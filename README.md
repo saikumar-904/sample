@@ -1,2 +1,2 @@
 # sample
-Data configuration
+Data configuration of analysis
